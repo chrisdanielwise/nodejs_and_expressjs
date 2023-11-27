@@ -1,0 +1,2 @@
+20231127	16:11:20	c38e4a00-fd5e-4059-a18d-55824e19fb16	TypeError : allowedOrigins.include is not a function
+20231127	16:12:34	d9d372c9-69c4-45fc-957b-77fa9e66beb4	TypeError : allowedOrigins.includes is not a function
